@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Marilyn Langley",
+    "gender": "female",
+    "email": "marilynlangley@snowpoke.com",
+    "bestFriends": [
+      {
+        "name": "Tanner Stewart"
+      },
+      {
+        "name": null
+      },
+      {
+        "name": "Claire Monroe"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "name": "Norma Torres",
+    "gender": "female",
+    "email": "normatorres@snowpoke.com",
+    "bestFriends": [
+      {
+        "name": "Kaitlin Nixon"
+      },
+      {
+        "name": "Freida Mason"
+      }
+    ],
+    "favoriteFruit": "banana"
+  },
+  {
+    "name": "Gaines Richmond",
+    "gender": "male",
+    "email": "gainesrichmond@snowpoke.com",
+    "bestFriends": [
+      {
+        "name": "Sylvia Christian"
+      },
+      {
+        "name": "Kathie Nolan"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "name": "Bruce Matthews",
+    "gender": "male",
+    "email": "brucematthews@snowpoke.com",
+    "bestFriends": [
+      {
+        "name": "Stacy Webb"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "name": "Watson Long",
+    "gender": "male",
+    "email": "watsonlong@snowpoke.com",
+    "bestFriends": [
+      {
+        "name": "Mooney Vaughan"
+      },
+      {
+        "name": "Glenda Harrison"
+      },
+      {
+        "name": "Sawyer Decker"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "name": "Howard Carlson",
+    "gender": "male",
+    "email": "howardcarlson@snowpoke.com",
+    "bestFriends": [
+      {
+        "name": "Merle Kemp"
+      },
+      {
+        "name": "Brittany Ingram"
+      }
+    ],
+    "favoriteFruit": "banana"
+  },
+  {
+    "name": "Vonda Salinas",
+    "gender": "female",
+    "email": "vondasalinas@snowpoke.com",
+    "bestFriends": [
+      {
+        "name": "Knapp Gay"
+      },
+      {
+        "name": "Bush Lott"
+      },
+      {
+        "name": "Elnora Warren"
+      }
+    ],
+    "favoriteFruit": "banana"
+  }
+]
