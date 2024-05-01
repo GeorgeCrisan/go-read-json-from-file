@@ -1,6 +1,8 @@
 Run with 
 
-```go run main.go```.
+```go run main.go```
+
+Or alternatively you can use hot reload.
 
 I use air for development [Hot reload with air](https://github.com/cosmtrek/air)
 
